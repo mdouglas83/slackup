@@ -1,0 +1,14 @@
+[x] fetch conversations.replies
+[x] add replies to jQuery loop
+[x] download files in replies
+[x] bad click channel headers
+[x] fix vertical scrolling
+[x] download user images
+[x] cleanup tag parsers
+[ ] channel info modal
+[~] clickable users
+[ ] user info modal
+[x] file icons
+[ ] emojis
+
+[ ] bots.info (https://api.slack.com/methods/bots.info)
